@@ -1,4 +1,4 @@
-[← Portfolio](../../README.md) · [Finance](../README.md) · [Download PDF](AR-Customer-Overview.pdf?raw=true)
+[← Portfolio](../../README.md) · [Finance](../README.md) · [View PDF](AR-Customer-Overview.pdf)
 
 # Historical Accounts Receivable Balances at the ERP's Entry Rate
 
