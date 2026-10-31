@@ -1,6 +1,8 @@
 # Project title
 
 > Authoring template. Replace prompts with supported facts before publication.
+>
+> When you copy this file to `<category>/<project>/README.md`, change the back link below to `../../README.md`.
 
 [← Portfolio](../README.md)
 
