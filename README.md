@@ -26,7 +26,7 @@ Starting from current supplier balances and transaction history, I designed a ro
 - **Outcome:** a production report supporting historical balances from 2023 onward.
 - **Validation scope:** tested suppliers and company totals across the current and two prior periods; older periods were not independently reconciled against SYSPRO.
 
-[Read the case study](finance/ap-supplier-overview/README.md) · [Download PDF](finance/ap-supplier-overview/AP-Supplier-Overview.pdf?raw=true)
+[Read the case study](finance/ap-supplier-overview/README.md) · [View PDF](finance/ap-supplier-overview/AP-Supplier-Overview.pdf)
 
 ### [AR Customer Overview](finance/ar-customer-overview/README.md)
 
@@ -39,7 +39,7 @@ I reused the AP roll-back method for receivables, then solved two problems speci
 - **Outcome:** a production report used by Finance and the executive team, with balances for any fiscal period and filtering by customer payment terms.
 - **Validation scope:** five customers across the current and two prior periods, matched to SYSPRO within line-level rounding in both currencies; older periods were not independently reconciled against SYSPRO.
 
-[Read the case study](finance/ar-customer-overview/README.md) · [Download PDF](finance/ar-customer-overview/AR-Customer-Overview.pdf?raw=true)
+[Read the case study](finance/ar-customer-overview/README.md) · [View PDF](finance/ar-customer-overview/AR-Customer-Overview.pdf)
 
 ## Project portfolio
 
