@@ -1,4 +1,4 @@
-[← Portfolio](../../README.md) · [Finance](../README.md) · [Download PDF](AP-Supplier-Overview.pdf?raw=true)
+[← Portfolio](../../README.md) · [Finance](../README.md) · [View PDF](AP-Supplier-Overview.pdf)
 
 # Reconstructing Historical Accounts Payable Balances in Power BI
 
