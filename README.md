@@ -1,6 +1,6 @@
 # Annamalai Kannan | BI & Data Portfolio
 
-**Junior BI Developer at TRENDS · New Zealand**
+**Junior BI Analyst at TRENDS (Tuapeka Gold Print) · New Zealand**
 
 I work with Power BI, Azure Databricks, SQL, DAX and SYSPRO ERP to develop reporting and financial data models. This portfolio documents real-world problems, technical decisions, reconciliation methods and the limits of the resulting solutions.
 
