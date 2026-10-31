@@ -4,11 +4,12 @@
 
 ### A case study in ERP reconciliation, fiscal-period alignment and multi-currency AP reporting
 
-**Author:** Annamalai Kannan, BI Developer  
+**Author:** Annamalai Kannan, Junior BI Analyst  
 **Organisation:** Trends (Tuapeka Gold Print), New Zealand  
 **Stakeholders:** Finance (requester and main user), Product team (user), Business Analyst (validation)  
 **Stack:** SYSPRO ERP · Databricks Lakehouse · Power BI (import-mode semantic model, DAX)  
-**Status:** In production
+**Status:** In production  
+**Version:** 1 · October 2026
 
 > **Confidentiality.** This case study describes methodology only. It contains no supplier names, financial values or record counts, and no code, queries or internal object names from the production solution. Every number in the examples and diagrams is fictional.
 
