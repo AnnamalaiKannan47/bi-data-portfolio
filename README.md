@@ -32,16 +32,16 @@ Starting from current supplier balances and transaction history, I designed a ro
 
 | Category | Published case studies |
 |---|---|
-| [Finance](finance/README.md) | [AP Supplier Overview](finance/ap-supplier-overview/README.md) |
+| [Finance](finance/README.md) | [AP Supplier Overview](finance/ap-supplier-overview/README.md) · [AR Customer Overview](finance/ar-customer-overview/README.md) |
 | [Sales](sales/README.md) | No case studies published yet |
 | [Product](product/README.md) | No case studies published yet |
 | [Operations](operations/README.md) | No case studies published yet |
 
 ## About these case studies
 
-The AP case study is published with employer permission. It describes methodology using fictional financial examples and generic model labels. Production code, business records and confidential datasets are excluded.
+The AP and AR case studies are published with employer permission. They describe methodology using fictional financial examples and generic model labels. Production code, business records and confidential datasets are excluded.
 
-Claims, validation limits and possible future improvements are identified in the case study. Future ideas are not presented as delivered work.
+Claims, validation limits and possible future improvements are identified in each case study. Future ideas are not presented as delivered work.
 
 ## Portfolio organisation
 
